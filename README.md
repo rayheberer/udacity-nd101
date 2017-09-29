@@ -6,3 +6,6 @@ A feedforward neural network built using Numpy that makes predictions off of the
 
 ## [Project2](https://github.com/rayheberer/udacity-nd101/tree/master/Project2)
 A convolutional neural network built using Tensorflow that classifies images from the [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
+
+## [Project3](https://github.com/rayheberer/udacity-nd101/tree/master/Project3)
+A recurrent neural network built using Tensorflow that generates Simpsons scripts on the word-level.
