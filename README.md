@@ -9,3 +9,6 @@ A convolutional neural network built using Tensorflow that classifies images fro
 
 ## [Project3](https://github.com/rayheberer/udacity-nd101/tree/master/Project3)
 A recurrent neural network built using Tensorflow that generates Simpsons scripts on the word-level.
+
+## [Project4](https://github.com/rayheberer/udacity-nd101/tree/master/Project4)
+A sequence-to-sequence RNN built using Tensorflow that translates from English to French using a small language corpus provided by [Udacity](https://www.udacity.com/).
