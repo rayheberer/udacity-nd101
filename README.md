@@ -12,3 +12,6 @@ A recurrent neural network built using Tensorflow that generates Simpsons script
 
 ## [Project4](https://github.com/rayheberer/udacity-nd101/tree/master/Project4)
 A sequence-to-sequence RNN built using Tensorflow that translates from English to French using a small language corpus provided by [Udacity](https://www.udacity.com/).
+
+## [Project5](https://github.com/rayheberer/udacity-nd101/tree/master/Project5)
+A GAN built using Tensorflow that generate faces similar to those in the [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
